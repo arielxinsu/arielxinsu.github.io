@@ -23,7 +23,7 @@ repository               : "arielxinsu/arielxinsu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Job2Full_Compressed"
+  avatar           : "Job2Full_Compressed.jpeg"
   name             : "Xin Su"
   pronouns         : # example: "she/her"  
   bio              : "Currently working in computational math."
